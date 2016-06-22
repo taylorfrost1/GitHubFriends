@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>GitFriendsApp.xcscheme</key>
+		<key>GitFriendsApp2.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,7 +12,7 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>FD08E3291D19DFF3007529C2</key>
+		<key>FD08E34B1D19F8B7007529C2</key>
 		<dict>
 			<key>primary</key>
 			<true/>

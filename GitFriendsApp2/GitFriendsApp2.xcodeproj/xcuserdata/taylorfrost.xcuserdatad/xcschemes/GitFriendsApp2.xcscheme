@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "FD08E3291D19DFF3007529C2"
-               BuildableName = "GitFriendsApp.app"
-               BlueprintName = "GitFriendsApp"
-               ReferencedContainer = "container:GitFriendsApp.xcodeproj">
+               BlueprintIdentifier = "FD08E34B1D19F8B7007529C2"
+               BuildableName = "GitFriendsApp2.app"
+               BlueprintName = "GitFriendsApp2"
+               ReferencedContainer = "container:GitFriendsApp2.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,10 +32,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "FD08E3291D19DFF3007529C2"
-            BuildableName = "GitFriendsApp.app"
-            BlueprintName = "GitFriendsApp"
-            ReferencedContainer = "container:GitFriendsApp.xcodeproj">
+            BlueprintIdentifier = "FD08E34B1D19F8B7007529C2"
+            BuildableName = "GitFriendsApp2.app"
+            BlueprintName = "GitFriendsApp2"
+            ReferencedContainer = "container:GitFriendsApp2.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -55,10 +55,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "FD08E3291D19DFF3007529C2"
-            BuildableName = "GitFriendsApp.app"
-            BlueprintName = "GitFriendsApp"
-            ReferencedContainer = "container:GitFriendsApp.xcodeproj">
+            BlueprintIdentifier = "FD08E34B1D19F8B7007529C2"
+            BuildableName = "GitFriendsApp2.app"
+            BlueprintName = "GitFriendsApp2"
+            ReferencedContainer = "container:GitFriendsApp2.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -74,10 +74,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "FD08E3291D19DFF3007529C2"
-            BuildableName = "GitFriendsApp.app"
-            BlueprintName = "GitFriendsApp"
-            ReferencedContainer = "container:GitFriendsApp.xcodeproj">
+            BlueprintIdentifier = "FD08E34B1D19F8B7007529C2"
+            BuildableName = "GitFriendsApp2.app"
+            BlueprintName = "GitFriendsApp2"
+            ReferencedContainer = "container:GitFriendsApp2.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

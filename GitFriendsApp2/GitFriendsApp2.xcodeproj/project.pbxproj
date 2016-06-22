@@ -7,27 +7,29 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		FD08E32E1D19DFF3007529C2 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD08E32D1D19DFF3007529C2 /* AppDelegate.swift */; };
-		FD08E3301D19DFF3007529C2 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD08E32F1D19DFF3007529C2 /* ViewController.swift */; };
-		FD08E3331D19DFF3007529C2 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FD08E3311D19DFF3007529C2 /* Main.storyboard */; };
-		FD08E3351D19DFF3007529C2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FD08E3341D19DFF3007529C2 /* Assets.xcassets */; };
-		FD08E3381D19DFF3007529C2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FD08E3361D19DFF3007529C2 /* LaunchScreen.storyboard */; };
-		FD08E3401D19E27C007529C2 /* GitHubFriend.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD08E33F1D19E27C007529C2 /* GitHubFriend.swift */; };
+		FD08E3501D19F8B7007529C2 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD08E34F1D19F8B7007529C2 /* AppDelegate.swift */; };
+		FD08E3521D19F8B7007529C2 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD08E3511D19F8B7007529C2 /* ViewController.swift */; };
+		FD08E3551D19F8B7007529C2 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FD08E3531D19F8B7007529C2 /* Main.storyboard */; };
+		FD08E3571D19F8B7007529C2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FD08E3561D19F8B7007529C2 /* Assets.xcassets */; };
+		FD08E35A1D19F8B7007529C2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FD08E3581D19F8B7007529C2 /* LaunchScreen.storyboard */; };
+		FD08E3621D19F8E8007529C2 /* GitHubFriend.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD08E3611D19F8E8007529C2 /* GitHubFriend.swift */; };
+		FD08E3641D19F8F3007529C2 /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD08E3631D19F8F3007529C2 /* Constants.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		FD08E32A1D19DFF3007529C2 /* GitFriendsApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GitFriendsApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		FD08E32D1D19DFF3007529C2 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		FD08E32F1D19DFF3007529C2 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		FD08E3321D19DFF3007529C2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		FD08E3341D19DFF3007529C2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		FD08E3371D19DFF3007529C2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		FD08E3391D19DFF3007529C2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		FD08E33F1D19E27C007529C2 /* GitHubFriend.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GitHubFriend.swift; sourceTree = "<group>"; };
+		FD08E34C1D19F8B7007529C2 /* GitFriendsApp2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GitFriendsApp2.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		FD08E34F1D19F8B7007529C2 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		FD08E3511D19F8B7007529C2 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		FD08E3541D19F8B7007529C2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		FD08E3561D19F8B7007529C2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		FD08E3591D19F8B7007529C2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		FD08E35B1D19F8B7007529C2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FD08E3611D19F8E8007529C2 /* GitHubFriend.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GitHubFriend.swift; sourceTree = "<group>"; };
+		FD08E3631D19F8F3007529C2 /* Constants.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		FD08E3271D19DFF3007529C2 /* Frameworks */ = {
+		FD08E3491D19F8B7007529C2 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -37,72 +39,73 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		FD08E3211D19DFF3007529C2 = {
+		FD08E3431D19F8B7007529C2 = {
 			isa = PBXGroup;
 			children = (
-				FD08E32C1D19DFF3007529C2 /* GitFriendsApp */,
-				FD08E32B1D19DFF3007529C2 /* Products */,
+				FD08E34E1D19F8B7007529C2 /* GitFriendsApp2 */,
+				FD08E34D1D19F8B7007529C2 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		FD08E32B1D19DFF3007529C2 /* Products */ = {
+		FD08E34D1D19F8B7007529C2 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				FD08E32A1D19DFF3007529C2 /* GitFriendsApp.app */,
+				FD08E34C1D19F8B7007529C2 /* GitFriendsApp2.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		FD08E32C1D19DFF3007529C2 /* GitFriendsApp */ = {
+		FD08E34E1D19F8B7007529C2 /* GitFriendsApp2 */ = {
 			isa = PBXGroup;
 			children = (
-				FD08E32D1D19DFF3007529C2 /* AppDelegate.swift */,
-				FD08E32F1D19DFF3007529C2 /* ViewController.swift */,
-				FD08E33F1D19E27C007529C2 /* GitHubFriend.swift */,
-				FD08E3311D19DFF3007529C2 /* Main.storyboard */,
-				FD08E3341D19DFF3007529C2 /* Assets.xcassets */,
-				FD08E3361D19DFF3007529C2 /* LaunchScreen.storyboard */,
-				FD08E3391D19DFF3007529C2 /* Info.plist */,
+				FD08E34F1D19F8B7007529C2 /* AppDelegate.swift */,
+				FD08E3511D19F8B7007529C2 /* ViewController.swift */,
+				FD08E3631D19F8F3007529C2 /* Constants.swift */,
+				FD08E3611D19F8E8007529C2 /* GitHubFriend.swift */,
+				FD08E3531D19F8B7007529C2 /* Main.storyboard */,
+				FD08E3561D19F8B7007529C2 /* Assets.xcassets */,
+				FD08E3581D19F8B7007529C2 /* LaunchScreen.storyboard */,
+				FD08E35B1D19F8B7007529C2 /* Info.plist */,
 			);
-			path = GitFriendsApp;
+			path = GitFriendsApp2;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		FD08E3291D19DFF3007529C2 /* GitFriendsApp */ = {
+		FD08E34B1D19F8B7007529C2 /* GitFriendsApp2 */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = FD08E33C1D19DFF3007529C2 /* Build configuration list for PBXNativeTarget "GitFriendsApp" */;
+			buildConfigurationList = FD08E35E1D19F8B7007529C2 /* Build configuration list for PBXNativeTarget "GitFriendsApp2" */;
 			buildPhases = (
-				FD08E3261D19DFF3007529C2 /* Sources */,
-				FD08E3271D19DFF3007529C2 /* Frameworks */,
-				FD08E3281D19DFF3007529C2 /* Resources */,
+				FD08E3481D19F8B7007529C2 /* Sources */,
+				FD08E3491D19F8B7007529C2 /* Frameworks */,
+				FD08E34A1D19F8B7007529C2 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = GitFriendsApp;
-			productName = GitFriendsApp;
-			productReference = FD08E32A1D19DFF3007529C2 /* GitFriendsApp.app */;
+			name = GitFriendsApp2;
+			productName = GitFriendsApp2;
+			productReference = FD08E34C1D19F8B7007529C2 /* GitFriendsApp2.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		FD08E3221D19DFF3007529C2 /* Project object */ = {
+		FD08E3441D19F8B7007529C2 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 0730;
 				LastUpgradeCheck = 0730;
 				ORGANIZATIONNAME = "Taylor Frost";
 				TargetAttributes = {
-					FD08E3291D19DFF3007529C2 = {
+					FD08E34B1D19F8B7007529C2 = {
 						CreatedOnToolsVersion = 7.3.1;
 					};
 				};
 			};
-			buildConfigurationList = FD08E3251D19DFF3007529C2 /* Build configuration list for PBXProject "GitFriendsApp" */;
+			buildConfigurationList = FD08E3471D19F8B7007529C2 /* Build configuration list for PBXProject "GitFriendsApp2" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -110,55 +113,56 @@
 				en,
 				Base,
 			);
-			mainGroup = FD08E3211D19DFF3007529C2;
-			productRefGroup = FD08E32B1D19DFF3007529C2 /* Products */;
+			mainGroup = FD08E3431D19F8B7007529C2;
+			productRefGroup = FD08E34D1D19F8B7007529C2 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				FD08E3291D19DFF3007529C2 /* GitFriendsApp */,
+				FD08E34B1D19F8B7007529C2 /* GitFriendsApp2 */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		FD08E3281D19DFF3007529C2 /* Resources */ = {
+		FD08E34A1D19F8B7007529C2 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				FD08E3381D19DFF3007529C2 /* LaunchScreen.storyboard in Resources */,
-				FD08E3351D19DFF3007529C2 /* Assets.xcassets in Resources */,
-				FD08E3331D19DFF3007529C2 /* Main.storyboard in Resources */,
+				FD08E35A1D19F8B7007529C2 /* LaunchScreen.storyboard in Resources */,
+				FD08E3571D19F8B7007529C2 /* Assets.xcassets in Resources */,
+				FD08E3551D19F8B7007529C2 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		FD08E3261D19DFF3007529C2 /* Sources */ = {
+		FD08E3481D19F8B7007529C2 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				FD08E3301D19DFF3007529C2 /* ViewController.swift in Sources */,
-				FD08E3401D19E27C007529C2 /* GitHubFriend.swift in Sources */,
-				FD08E32E1D19DFF3007529C2 /* AppDelegate.swift in Sources */,
+				FD08E3521D19F8B7007529C2 /* ViewController.swift in Sources */,
+				FD08E3621D19F8E8007529C2 /* GitHubFriend.swift in Sources */,
+				FD08E3501D19F8B7007529C2 /* AppDelegate.swift in Sources */,
+				FD08E3641D19F8F3007529C2 /* Constants.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		FD08E3311D19DFF3007529C2 /* Main.storyboard */ = {
+		FD08E3531D19F8B7007529C2 /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				FD08E3321D19DFF3007529C2 /* Base */,
+				FD08E3541D19F8B7007529C2 /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
-		FD08E3361D19DFF3007529C2 /* LaunchScreen.storyboard */ = {
+		FD08E3581D19F8B7007529C2 /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				FD08E3371D19DFF3007529C2 /* Base */,
+				FD08E3591D19F8B7007529C2 /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -166,7 +170,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		FD08E33A1D19DFF3007529C2 /* Debug */ = {
+		FD08E35C1D19F8B7007529C2 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -211,7 +215,7 @@
 			};
 			name = Debug;
 		};
-		FD08E33B1D19DFF3007529C2 /* Release */ = {
+		FD08E35D1D19F8B7007529C2 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -249,24 +253,24 @@
 			};
 			name = Release;
 		};
-		FD08E33D1D19DFF3007529C2 /* Debug */ = {
+		FD08E35F1D19F8B7007529C2 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				INFOPLIST_FILE = GitFriendsApp/Info.plist;
+				INFOPLIST_FILE = GitFriendsApp2/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = FrostEnterprises.GitFriendsApp;
+				PRODUCT_BUNDLE_IDENTIFIER = FrostEnterprises.GitFriendsApp2;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
 		};
-		FD08E33E1D19DFF3007529C2 /* Release */ = {
+		FD08E3601D19F8B7007529C2 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				INFOPLIST_FILE = GitFriendsApp/Info.plist;
+				INFOPLIST_FILE = GitFriendsApp2/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = FrostEnterprises.GitFriendsApp;
+				PRODUCT_BUNDLE_IDENTIFIER = FrostEnterprises.GitFriendsApp2;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;
@@ -274,25 +278,24 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		FD08E3251D19DFF3007529C2 /* Build configuration list for PBXProject "GitFriendsApp" */ = {
+		FD08E3471D19F8B7007529C2 /* Build configuration list for PBXProject "GitFriendsApp2" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				FD08E33A1D19DFF3007529C2 /* Debug */,
-				FD08E33B1D19DFF3007529C2 /* Release */,
+				FD08E35C1D19F8B7007529C2 /* Debug */,
+				FD08E35D1D19F8B7007529C2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		FD08E33C1D19DFF3007529C2 /* Build configuration list for PBXNativeTarget "GitFriendsApp" */ = {
+		FD08E35E1D19F8B7007529C2 /* Build configuration list for PBXNativeTarget "GitFriendsApp2" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				FD08E33D1D19DFF3007529C2 /* Debug */,
-				FD08E33E1D19DFF3007529C2 /* Release */,
+				FD08E35F1D19F8B7007529C2 /* Debug */,
+				FD08E3601D19F8B7007529C2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = FD08E3221D19DFF3007529C2 /* Project object */;
+	rootObject = FD08E3441D19F8B7007529C2 /* Project object */;
 }
